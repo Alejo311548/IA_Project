@@ -7,5 +7,8 @@
 (2020). SISBEN2019. Base de datos SISBEN 2019. http://medata.gov.co/dataset/base-de-datos-sisben-2019
 
 
-#Link del video entrega 2
+#Video primera entrega
 https://youtu.be/SFNET_DxNPM
+
+#Video segunda entrega
+https://youtu.be/gLCFftZcBeY
